@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Me+Again+Down+Here&display=swap');
+
+body {
+  margin: 0;
+  background: black; /* Add a semicolon here */
+  font-family: 'Just Me Again Down Here', cursive;
+}
+.buttongrid{
+  margin-top: -80px;
+  margin-left: 300px;
+  display: grid;
+  grid-template-columns: repeat(2, 0.4fr);
+  gap: 80px; 
+  margin-bottom: 45px;
+}
+.box {
+  border-radius: 30px;
+  padding:20px 40px;
+  width: 300px;
+  height: 27px;
+  color: white;
+  font-size: 40px;
+  font-family: 'Just Another Hand';
+  letter-spacing: 5px;
+  border-color: #FFF;
+  background-color: black;
+  
+}
+
+.enter{
+  width: 280px;
+  padding: 7px 20px;
+  height: 90px;
+  flex-shrink: 0;
+  margin-left: 680px;
+  border-radius: 35px;
+  margin-top: 95px;
+background: rgba(255, 255, 255, 0.53);
+color: #1c0a0a;
+font-family: "Just Another Hand";
+font-size: 60px;
+font-weight: 400;
+text-decoration: none;
+}
+
+#details {
+  color: #FFF;
+  font-family: 'Just Me Again Down Here', cursive;
+  font-size: 128px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 170px;
+  margin-top: 20px;
+}

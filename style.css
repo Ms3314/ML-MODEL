@@ -1,0 +1,35 @@
+body {
+  background: url(unsplash_5TK1F5VfdIk.png);
+   /* Additional styling properties if needed */
+}
+
+#maintxt{
+  /* width: 906px; */
+  opacity: 1;
+  margin-left: 400px;
+  height: 167px;
+  flex-shrink: 0;
+  color: #FFF;
+  font-family: "Just Another Hand";
+  font-size: 180px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+#button{
+  width: 304px;
+  padding: 17px 35px;
+  height: 139px;
+  flex-shrink: 0;
+  margin-left: 700px;
+  border-radius: 35px;
+  margin-top: -10px;
+background: rgba(255, 255, 255, 0.53);
+color: #1c0a0a;
+font-family: "Just Another Hand";
+font-size: 80px;
+font-weight: 400;
+text-decoration: none;
+
+}
